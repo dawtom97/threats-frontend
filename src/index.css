@@ -20,3 +20,7 @@ code {
 input::placeholder {
   color: white !important;
 }
+
+a {
+  color: white !important;
+}
